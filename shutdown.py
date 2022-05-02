@@ -1,3 +1,3 @@
 import subprocess
 
-subproccess.run(['shutdown.exe', '-r'])
+subproccess.run(['shutdown.exe', '-s'])
